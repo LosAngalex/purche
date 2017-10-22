@@ -1,5 +1,5 @@
 html {
-    font-family: 'Coming Soon', cursive;
+    font-family: 'Concert One', cursive;
     background-color: gold;
 }
 
@@ -8,4 +8,5 @@ h2,
 div {
     text-transform: uppercase;
     text-align: center;
+    color: #555;
 }
