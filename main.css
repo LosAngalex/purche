@@ -1,6 +1,9 @@
 html {
     font-family: 'Concert One', cursive;
-    background-color: gold;
+    font-size: 25px;
+    background-image: url(bg1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 h1,
@@ -8,5 +11,6 @@ h2,
 div {
     text-transform: uppercase;
     text-align: center;
-    color: #555;
+    color: white;
+    text-shadow: 2px 2px 5px gold;
 }
